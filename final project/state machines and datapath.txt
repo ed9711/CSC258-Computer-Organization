@@ -1,0 +1,44 @@
+states
+	startscreen start? startscreen : draw grid
+	draw grid next = move 1
+	move 1(draw one white pointer at col and black pointer at other cols)
+	//move 1 to check end state and to move2 pressed
+	(during each state, KEY3 and KEY1 can output x/y for pointer drawing)
+	//move between states by adding 14
+	//nextstate = default x number plus 
+	7 states(one for each col, with its own y value saved)
+	go to endscreen state(print x color win) check if all 7 states's y are full or win(value saved)
+	restart state(KEY2, change reset to SW9) paint everyting black\
+	go back to draw grid state
+
+
+states order
+	start screen
+	draw grid
+	first colour, if KEY[1]
+	print chip and check
+	second colour, if KEY[1]
+	print chip and check
+	first colour
+	...
+	if check met then to endscreen state
+	endscreen, if restart 
+	draw grid
+		
+
+values
+	start (KEY0)
+	plot (KEY1)
+	SW0 to 6(col1 to col7)
+	y1 to y6
+	reset (SW9)
+	restart(KEY2) tigger paint everything black
+	paint everything black value
+	
+	
+	
+
+datapath
+
+	
+	

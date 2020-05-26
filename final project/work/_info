@@ -1,0 +1,178 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Eddie/Desktop/Learn/csc258/lab7
+vconnect4
+Z0 !s110 1491410644
+!i10b 1
+!s100 ?BWOJ2EmT_BOP:1j:Z7lE1
+Ii2Pob8<:HB>LA`AnUVZHo2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Eddie/Desktop/Learn/csc258/final project
+Z3 w1491362957
+Z4 8C:/Users/Eddie/Desktop/connect4.v
+Z5 FC:/Users/Eddie/Desktop/connect4.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1491410644.000000
+Z8 !s107 C:/Users/Eddie/Desktop/connect4.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Eddie/Desktop/connect4.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vcontrol
+R0
+!i10b 1
+!s100 =HmnKU]3RAKjCC]ic16^Z2
+IS^iR^GRUcF^7bG2Rd1<[00
+R1
+R2
+R3
+R4
+R5
+L0 114
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vdatapath
+R0
+!i10b 1
+!s100 N^iTK2L?ZiJK`:kS3ha=a2
+IZ]f`]@K4HO=X:k[c03C6A3
+R1
+R2
+R3
+R4
+R5
+L0 313
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vrate_divider2
+R0
+!i10b 1
+!s100 <CElL5DEV@JgFcUQCBn`a2
+IB3gL7]FhCk@dzkXXm8;Xd2
+R1
+R2
+R3
+R4
+R5
+L0 930
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vvga_adapter
+!s110 1491347470
+!i10b 1
+!s100 2=;e8A[I4Xdoc6^8CL5PZ2
+I12;m_C22lHAhmON653SQC1
+R1
+R2
+Z12 w1472248900
+8C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_adapter.v
+FC:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_adapter.v
+L0 78
+R6
+r1
+!s85 0
+31
+!s108 1491347470.000000
+!s107 C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_adapter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_adapter.v|
+!i113 1
+R10
+R11
+vvga_address_translator
+!s110 1491347471
+!i10b 1
+!s100 C0DfW0_9[5co`@boeR]Pi1
+IBJPUn<_lT5EzB67PfdC3]3
+R1
+R2
+R12
+8C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_address_translator.v
+FC:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_address_translator.v
+L0 4
+R6
+r1
+!s85 0
+31
+!s108 1491347471.000000
+!s107 C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_address_translator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_address_translator.v|
+!i113 1
+R10
+R11
+vvga_controller
+!s110 1491347473
+!i10b 1
+!s100 e6ZP6iRSUQ77>][ahP0EJ1
+I1mT;jF8B@F@:gQBi7dVe]0
+R1
+R2
+R12
+8C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_controller.v
+FC:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_controller.v
+L0 9
+R6
+r1
+!s85 0
+31
+!s108 1491347472.000000
+!s107 C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_controller.v|
+!i113 1
+R10
+R11
+vvga_pll
+!s110 1491347469
+!i10b 1
+!s100 4XSTjD`VEiamX^n1@5J`b3
+IhlQE1SG<[I6oBmNGE7YZO0
+R1
+R2
+R12
+8C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_pll.v
+FC:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_pll.v
+L0 36
+R6
+r1
+!s85 0
+31
+!s108 1491347469.000000
+!s107 C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_pll.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_pll.v|
+!i113 1
+R10
+R11

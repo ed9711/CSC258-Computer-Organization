@@ -1,0 +1,41 @@
+{C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_address_translator.v} {1 {vlog -work work -stats=none {C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_address_translator.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_address_translator
+
+Top level modules:
+	vga_address_translator
+
+} {} {}} {C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_controller.v} {1 {vlog -work work -stats=none {C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_controller
+
+Top level modules:
+	vga_controller
+
+} {} {}} {C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_pll.v} {1 {vlog -work work -stats=none {C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_pll.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_pll
+
+Top level modules:
+	vga_pll
+
+} {} {}} C:/Users/Eddie/Desktop/connect4.v {2 {vlog -work work -stats=none C:/Users/Eddie/Desktop/connect4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module connect4
+-- Compiling module control
+** Warning: C:/Users/Eddie/Desktop/connect4.v(233): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+-- Compiling module datapath
+-- Compiling module rate_divider2
+
+Top level modules:
+	connect4
+	rate_divider2
+
+} {} {}} {C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_adapter.v} {1 {vlog -work work -stats=none {C:/Users/Eddie/Desktop/Learn/csc258/final project/vga_adapter/vga_adapter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_adapter
+
+Top level modules:
+	vga_adapter
+
+} {} {}}

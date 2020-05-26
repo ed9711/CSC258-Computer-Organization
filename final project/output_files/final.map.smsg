@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at connect4.v(130): object "start" differs only in case from object "START" in the same scope File: C:/Users/Eddie/Desktop/connect4.v Line: 130
+Info (10281): Verilog HDL Declaration information at connect4.v(127): object "delete" differs only in case from object "DELETE" in the same scope File: C:/Users/Eddie/Desktop/connect4.v Line: 127

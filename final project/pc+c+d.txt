@@ -1,0 +1,11 @@
+program counter
+	x = 24
+	y = 11
+	
+	counter()
+		x+14
+		if x > 136
+			y+14
+			x = 24
+		if y > 109
+			end

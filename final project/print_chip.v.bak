@@ -1,0 +1,4 @@
+module print_chip(clk, x, y);
+	
+
+endmodule

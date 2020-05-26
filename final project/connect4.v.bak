@@ -1,0 +1,38 @@
+module connect4(
+		CLOCK_50,						//	On Board 50 MHz
+		KEY,							//	Push Button[3:0]
+		SW,								//	DPDT Switch[17:0]
+		VGA_CLK,   						//	VGA Clock
+		VGA_HS,							//	VGA H_SYNC
+		VGA_VS,							//	VGA V_SYNC
+		VGA_BLANK,						//	VGA BLANK
+		VGA_SYNC,						//	VGA SYNC
+		VGA_R,   						//	VGA Red[9:0]
+		VGA_G,	 						//	VGA Green[9:0]
+		VGA_B   						//	VGA Blue[9:0]
+	);
+	
+	input			CLOCK_50;				//	50 MHz
+	input	[3:0]	KEY;					//	Button[3:0]
+	input	[9:0]	SW;						//	Switches[0:0]
+	output			VGA_CLK;   				//	VGA Clock
+	output			VGA_HS;					//	VGA H_SYNC
+	output			VGA_VS;					//	VGA V_SYNC
+	output			VGA_BLANK;				//	VGA BLANK
+	output			VGA_SYNC;				//	VGA SYNC
+	output	[9:0]	VGA_R;   				//	VGA Red[9:0]
+	output	[9:0]	VGA_G;	 				//	VGA Green[9:0]
+	output	[9:0]	VGA_B;   				//	VGA Blue[9:0]
+	
+	wire resetn;
+	assign resetn = KEY[0];
+	
+	// Create the color, x, y and writeEn wires that are inputs to the controller.
+
+	//wire [2:0] colour;
+	wire [7:0] x;
+	wire [6:0] y;
+	wire writeEn;
+
+
+endmodule 
